@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-This repository contains 2 programs developed as part of a university project
+This repository contains 2 Java programs developed as part of a university project.
 
 # mp1 Key Components
 
